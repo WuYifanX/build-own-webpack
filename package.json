@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/WuYifanX/build-own-webpack/issues"
   },
-  "homepage": "https://github.com/WuYifanX/build-own-webpack#readme"
+  "homepage": "https://github.com/WuYifanX/build-own-webpack#readme",
+  "dependencies": {
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0"
+  }
 }
