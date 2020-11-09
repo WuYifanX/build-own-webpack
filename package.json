@@ -1,0 +1,19 @@
+{
+  "name": "build-own-webpack",
+  "version": "1.0.0",
+  "description": "This is a simple webpack",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WuYifanX/build-own-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WuYifanX/build-own-webpack/issues"
+  },
+  "homepage": "https://github.com/WuYifanX/build-own-webpack#readme"
+}
